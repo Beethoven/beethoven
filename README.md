@@ -1,7 +1,9 @@
 ## Hi, I'm Beto 👋
 
 Entrepreneur passionate about **People**, **Design** and **Technology**
+
 I believe that Design + Technology frees People to be human.
+
 [mkts.me](mkts.me) founder
  
 <!--
