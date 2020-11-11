@@ -1,8 +1,8 @@
-### Hi, I'm Beto 👋
+## Hi, I'm Beto 👋
 
-Entrepreneur passionate about People, Design and Technology
+Entrepreneur passionate about **People**, **Design** and **Technology**
 I believe that Design + Technology frees People to be human.
-@mktsme founder
+[mkts.me](mkts.me) founder
  
 <!--
 **Beethoven/beethoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
