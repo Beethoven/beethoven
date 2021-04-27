@@ -6,6 +6,7 @@ I believe that Design + Technology frees People to be human.
 
 [mkts.me](mkts.me) founder
 
+<a href="https://www.linkedin.com/in/betomegarcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 ## Culture
 
