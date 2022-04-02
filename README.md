@@ -8,6 +8,9 @@ I believe that Design + Technology frees People to be human.
 
 <a href="https://www.linkedin.com/in/betomegarcia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/betomegarcia)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/betomegarcia/)
+
 ## Culture
 
  1. Brilho no Olho: Passion - Beauty - Creativity
