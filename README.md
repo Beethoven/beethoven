@@ -1,6 +1,6 @@
 ## Hi, I'm Beto 👋
 
-Entrepreneur passionate about **People**, **Design** and **Technology**
+Designer and FrontEnd passionate about **People**, **Design** and **Technology**
 
 I believe that Design + Technology frees People to be human.
 
