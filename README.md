@@ -4,8 +4,6 @@ Designer and FrontEnd passionate about **People**, **Design** and **Technology**
 
 I believe that Design + Technology frees People to be human.
 
-[mkts.me](mkts.me) founder
-
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/betomegarcia)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/betomegarcia/)
